@@ -32,7 +32,6 @@ func twoSum(nums []int, target int) []int {
 		l++
 	}
 	return []int{-1, -1}
-
 }
 
 // @lc code=end
