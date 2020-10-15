@@ -18,7 +18,7 @@
 // 	}
 // 	return []int{-1, -1}
 // }
-
+package golang
 func twoSum(nums []int, target int) []int {
 	l, r := 0, 1
 	for l < len(nums) {
@@ -30,9 +30,13 @@ func twoSum(nums []int, target int) []int {
 			r++
 		}
 		l++
+		if{
+
+		}else{
+			
+		}
 	}
 	return []int{-1, -1}
 }
 
 // @lc code=end
-
